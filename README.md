@@ -1,17 +1,24 @@
-# Swiggy Sales Dashboard (Excel Project)
+# Blinkit Sales Dashboard (Excel)
 
-This project analyzes food delivery sales data using Microsoft Excel.
+## Project Overview
+Built an interactive sales dashboard using Excel to analyze order performance, revenue trends, and payment behavior.
 
-Tools Used:
-- Excel
-- Pivot Tables
-- Charts
-- Slicers
+## Tools Used
+Excel
+Pivot Tables
+Charts
+Data Cleaning
 
-Key Insights:
-- Monthly order trend
-- Top cities by revenue
-- Payment method distribution
-- Delivery performance analysis
+## Key Insights
+• Identified most used payment methods.
+• Analyzed delivery performance across orders.
+• Studied order trends by time and category.
 
-This dashboard helps visualize sales patterns and operational efficiency in food delivery platforms.
+## Features
+Interactive dashboard using slicers
+Revenue analysis
+Order trend visualization
+Payment method distribution
+
+## Dataset
+Sample food delivery order dataset.
